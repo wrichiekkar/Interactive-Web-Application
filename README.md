@@ -6,7 +6,7 @@ November 17, 2018;
 Ryerson University;
 SBI;
 Wrichiek Kar, Yusef Khedr, Rylan Lobo, Neel Bhavsar;
-http://wrichiekkar.me/SuicidePrevention/;
+http://wrichiekkar.com/SuicidePrevention/;
 
 # Design Process
 After receiving the problem, we began the ideation process. We utilized a whiteboard in TRSM
