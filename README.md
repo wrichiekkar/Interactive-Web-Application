@@ -1,12 +1,12 @@
 # Interactive-Web-Application
 Utilized HTML5, Javascript, CSS, Bootstrap, and a Google chatbot API which incorporates machine learning to develop a solution for suicide prevention at REC 2018.
 
-Ryerson Engineering Competition 3rd Place Winner!;
-November 17, 2018;
-Ryerson University;
-SBI;
-Wrichiek Kar, Yusef Khedr, Rylan Lobo, Neel Bhavsar;
-http://wrichiekkar.com/SuicidePrevention/;
+Ryerson Engineering Competition 3rd Place Winner!
+November 17, 2018
+Ryerson University
+SBI
+Wrichiek Kar, Yusef Khedr, Rylan Lobo, Neel Bhavsar
+http://wrichiekkar.com/SuicidePrevention/
 
 # Design Process
 After receiving the problem, we began the ideation process. We utilized a whiteboard in TRSM
